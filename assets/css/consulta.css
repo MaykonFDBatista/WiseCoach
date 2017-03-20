@@ -1,0 +1,31 @@
+.blog_item > h2 {
+    text-align: center;
+    margin-top: 25px;
+}
+.blog_item {
+    background: none;
+}
+.blog_item, .heading_b{
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+.faq_box i {
+    font-size: 20px;
+}
+.media-body h4 {
+    font: 300 20px/24px 'Roboto Condensed', sans-serif;
+    margin-top: 1px;
+    margin-bottom: 10px;
+}
+.media .row-fluid{
+    margin-top: 1px;
+}
+.muted{
+    margin: 0 0 1px;
+}
+.input-append, #btn_hoje{
+    margin: 1px 0 0;
+}
+.icon-move-vertical{
+    margin-top: 15px;
+}
